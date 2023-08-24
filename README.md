@@ -1,3 +1,5 @@
-# .github
+# RAINIRING
 
-hello rainiring
+> EXPLORE PROTECT OPERATE
+
+.github 
